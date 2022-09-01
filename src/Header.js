@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Header = ({title}) => {
+const Header = ({ title }) => {
 
     return (
         <header>
@@ -9,8 +9,8 @@ const Header = ({title}) => {
     )
 }
 
-Header.defaultProps ={
-    title:"Default Title"
+Header.defaultProps = {
+    title: "Default Title"
 }
 
-export default Header
+export default Header;

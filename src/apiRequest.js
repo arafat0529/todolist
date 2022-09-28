@@ -1,5 +1,5 @@
 const apiRequest = async (
-  url = 'https://react-getting-started-f489f-default-rtdb.firebaseio.com/todo',
+  url = 'https://react-getting-started-f489f-default-rtdb.firebaseio.com/todo.json',
   optionsObj = null,
   errMsg = null
 ) => {
